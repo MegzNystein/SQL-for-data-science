@@ -1,1 +1,2 @@
-# SQL-for-data-science
+# SQL-for-Data-Science
+Coursera - University of California, Davis
